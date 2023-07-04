@@ -1,2 +1,2 @@
 # Qr-with-python
- Using python liraries to gnerate qr-codes on a pdf
+ Using python libraries to gnerate qr-codes on a pdf
